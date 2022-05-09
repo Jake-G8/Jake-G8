@@ -1,6 +1,6 @@
 - Hi, I’m Jake (@Jake-G8).
-- I’m currently interested in 2D and 3D game development, pixel art, animation, and programming (C#, C++).
-- I’m currently learning C, C#, and Unity.
+- Currently learning Python and AWS.
+- I aspire to be a professional developer in the future.
 
 <!---
 Jake-G8/Jake-G8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
