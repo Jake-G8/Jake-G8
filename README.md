@@ -1,5 +1,5 @@
 - Aspiring Game Developer
-- Currently learning/using Godot with Gdscript
+- Currently building skills in Unity and C#
 
 <!---
 Jake-G8/Jake-G8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
